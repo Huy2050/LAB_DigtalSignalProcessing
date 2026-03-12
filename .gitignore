@@ -1,0 +1,9 @@
+*
+!*.sci
+!*.sce
+!*.xcos
+!*.zcos
+!.gitignore
+!README.md
+!*.txt
+!*/
